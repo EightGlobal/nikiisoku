@@ -20,7 +20,7 @@
         "inter": "-",
         "native_ad": "-",
         "open_ad": "-",
-        "splash_ad": true
+        "splash_ad": false
       }
     ]
   },
