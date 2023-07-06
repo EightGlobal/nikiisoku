@@ -36,8 +36,8 @@
     "item_interval_native_ad_list": 4,
 
     "enable_banner_ads": true,
-    "enable_category": true,
-    "enable_more_app": true
+    "enable_category": false,
+    "enable_more_app": false
   },
 
   "More": [
