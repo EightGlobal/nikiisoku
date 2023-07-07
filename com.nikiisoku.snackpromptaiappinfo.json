@@ -5,8 +5,8 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false
     },
 
     "ad_network": [
@@ -30,14 +30,14 @@
 
     "recent_fragment_list_view_mode" : "small",
     "favorite_fragment_list_view_mode" : "grid",
-    "category_fragment_list_view_mode" : "grid",
-    "category_activity_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
     "hide_short_desc_category_activity_list" : false,
     "item_interval_native_ad_list": 4,
 
     "enable_banner_ads": true,
-    "enable_category": true,
-    "enable_more_app": true
+    "enable_category": false,
+    "enable_more_app": false
   },
 
   "More": [
@@ -74,77 +74,92 @@
   ],
 
   "Data": [
-    {
+   {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safetyssss",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "Guide",
+      "title": "What is Sncak Prompt?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt is a new piece of technology that provides real-time prompting for individuals or businesses",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-is-snack-prompt.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
-    },
+      "name_category": "Guide",
+      "title": "Features of Snack Prompt",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt offers real-time prompting, which means that users receive prompts as they work on their tasks",
+      "link": "https://aitoolsadvices.blogspot.com/p/features-of-snack-prompt.html"
+	},
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "cat->Reskin"
+      "name_category": "Guide",
+      "title": "Snack Prompt Pricing Models and Plans",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "The free plan is ideal for individuals who want to try out Snack Prompt before committing to a paid plan",
+      "link": "https://aitoolsadvices.blogspot.com/p/snack-prompt-pricing-models-and-plans.html"
     },
-    {
+	{
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Guide",
+      "title": "Snack Prompt AI: Revolutionizing Time Management and Productivity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt AI is an innovative technology that is revolutionizing the way we manage our time and enhance our productivity",
+      "link": "https://aitoolsadvices.blogspot.com/p/snack-prompt-ai-revolutionizing-time.html"
     },
-    {
+	{
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Guide",
+      "title": "Boost Your Focus and Efficiency with Snack Prompt AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "In today's fast-paced world, maintaining focus and efficiency can be a challenging task",
+      "link": "https://aitoolsadvices.blogspot.com/p/boost-your-focus-and-efficiency-with.html"
     },
-    {
+	{
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Guide",
+      "title": "How Snack Prompt AI is Transforming Task Management",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt AI is transforming task management by introducing a dynamic and intelligent approach",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-snack-prompt-ai-is-transforming.html"
     },
-    {
+	{
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
-    },
-    {
+      "name_category": "Guide",
+      "title": "Stay On Track with Snack Prompt AI: A Comprehensive Review",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt AI has garnered attention as a comprehensive solution to help individuals and businesses stay on track with their goals and tasks",
+      "link": "https://aitoolsadvices.blogspot.com/p/stay-on-track-with-snack-prompt-ai.html"
+    },{
       "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Guide",
+      "title": "Enhance Your Workday with Snack Prompt AI: Features and Benefits",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt AI offers a range of features and benefits that can enhance your workday and boost your productivity",
+      "link": "https://aitoolsadvices.blogspot.com/p/enhance-your-workday-with-snack-prompt.html"
     },
-    {
+	{
       "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Guide",
+      "title": "Snack Prompt AI: The Ultimate Solution for Effective Time Management",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Effective time management is crucial for success in both personal and professional life",
+      "link": "https://aitoolsadvices.blogspot.com/p/snack-prompt-ai-ultimate-solution-for.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "How does Snack Prompt work",
+      "link": "https://aitoolsadvices.blogspot.com/p/frequently-asked-questions.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyecCLE_DhL5C7HmA8baiF7LuIxWtJt9bjq6WeA6wYg6-xM6oxmVPM-L2EkmgX8gClzDOqW3npPd7vOagfbRnbHYvA-hpgWebbSGEb0UBPR2R2EFQvAVV-ImkqKmf6RNmZgxuVwgFDlVs8A3ctgFBMhfzVzuAwZdSqxGhnn6YKo71J9dJn0UfO19cyg/w400-h225/maxresdefault%20(2).jpg",
+      "description": "Snack Prompt is a unique and effective solution for individuals or businesses",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion_7.html"
     }
   ]
 }
