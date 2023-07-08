@@ -5,8 +5,8 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false
     },
 
     "ad_network": [
@@ -30,14 +30,14 @@
 
     "recent_fragment_list_view_mode" : "small",
     "favorite_fragment_list_view_mode" : "grid",
-    "category_fragment_list_view_mode" : "grid",
-    "category_activity_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
     "hide_short_desc_category_activity_list" : false,
     "item_interval_native_ad_list": 4,
 
     "enable_banner_ads": true,
-    "enable_category": true,
-    "enable_more_app": true
+    "enable_category": false,
+    "enable_more_app": false
   },
 
   "More": [
@@ -74,77 +74,85 @@
   ],
 
   "Data": [
-    {
+   {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safetyssss",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "App Info",
+      "title": "Introduction",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "AI tool that automatically animates, lights, and composes CG characters into a live-action scene",
+      "link": "https://aitoolsadvices.blogspot.com/p/introduction.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
-    },
+      "name_category": "App Info",
+      "title": "How Does Wonder Dynamic Work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Wonder Dynamic uses AI and machine learning to analyze the user’s footage and identify areas where VFX could be added",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-does-wonder-dynamic-work.html"
+	},
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "cat->Reskin"
+      "name_category": "App Info",
+      "title": "Plans and Subscriptions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "You can find all the plans that we offer here",
+      "link": "https://aitoolsadvices.blogspot.com/p/plans-and-subscriptions.html"
     },
-    {
+	{
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "What Are the Benefits of Wonder Dynamic?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "One of the biggest benefits of Wonder Dynamic is its speed and efficiency",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-are-benefits-of-wonder-dynamic.html"
     },
-    {
+	{
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "The Future of VFX Production",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Wonder Dynamic is just the beginning of what is sure to be a revolution in the world of VFX production",
+      "link": "https://aitoolsadvices.blogspot.com/p/the-future-of-vfx-production.html"
     },
-    {
+	{
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "How to Use Wonder Dynamic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Here’s a step-by-step App Info on how to use Wonder Dynamic based on the information available",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-to-use-wonder-dynamic.html"
     },
-    {
+	{
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "Use Cases",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Create an exciting sci-fi world with Wonder Dynamic by assigning multiple characters",
+      "link": "https://aitoolsadvices.blogspot.com/p/use-cases.html"
     },
-    {
+	{
       "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "Platform Limitations",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "The maximum length of a video that can be processed in a project is 2 minutes",
+      "link": "https://aitoolsadvices.blogspot.com/p/platform-limitations.html"
     },
-    {
+	{
       "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "App Info",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Can’t Log In - It is possible that you have not created your account yet",
+      "link": "https://aitoolsadvices.blogspot.com/p/frequently-asked-questions_8.html"
+    },
+	{
+      "id": 10,
+      "name_category": "App Info",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xzEJCiQxnUS4uSUdY0yWQHy5kXf6K2UWweULjvCwpwonIHtK8BxGhDygtckDY--4OL3H1KaSnD01asSyazr-vutOcxdD69B4mAItpHt1-Za5-I_yf-aKeHpwYeKLD_b52T1fPcf7S0tq3yK230rMa9rWF6-oRJHHW4xHu67KooZ2DTiAxtSdcpgGKg/w400-h400/icon.png",
+      "description": "Wonder Dynamic is a game-changer in the world of VFX production",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion_8.html"
     }
   ]
 }
