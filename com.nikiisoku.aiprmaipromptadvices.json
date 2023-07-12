@@ -1,176 +1,161 @@
 {
-  "ads": {
-    "settings": {
-      "app_id_onesignal": "off",
-      "interval_interstitial": 3,
-      "interstitial_type" : "lap",
-      "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
-      "enable_activity_maintenance_with_chat_bot": false
-    },
+	"ads": {
+		"settings": {
+			"app_id_onesignal": "off",
+			"interval_interstitial": 3,
+			"interstitial_type": "lap",
+			"switch_ads_type": "only_banner",
+			"make_app_crash_when_app_not_live_at_play_store": false,
+			"enable_activity_maintenance_with_ads": false
+		},
 
-    "ad_network": [
-      {
-        "name": "iklanoff",
-        "value": 1,
+		"ad_network": [{
+			"name": "iklanoff",
+			"value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
-        "splash_ad": true
-      }
-    ]
-  },
-
-  "app_settings" : {
-    "navigation_mode" : "tab_layout_top",
-
-    "recent_fragment_list_view_mode" : "small",
-    "favorite_fragment_list_view_mode" : "grid",
-    "category_fragment_list_view_mode" : "big",
-    "category_activity_list_view_mode" : "big",
-    "hide_short_desc_category_activity_list" : false,
-    "item_interval_native_ad_list": 4,
-
-    "enable_banner_ads": true,
-    "enable_category": false,
-    "enable_more_app": false
-  },
-
-  "More": [
-    {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "fitur",
-      "image": "aa"
-    },
-    {
-      "id": 2,
-      "name_category": "fitur",
-      "image": "aa"
-    },
-    {
-      "id": 3,
-      "name_category": "faq",
-      "image": "aa"
-    },
-	{
-      "id": 4,
-      "name_category": "faq",
-      "image": "aa"
-    },
-	{
-      "id": 5,
-      "name_category": "faq",
-      "image": "aa"
-    }
-  ],
-
-  "Data": [
-   {
-      "id": 1,
-      "name_category": "Guide",
-      "title": "What is AIPRM?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "The AIPRM for ChatGPT add-on allows marketers to access many curated prompts they can tweak at will for SEO, SaaS, marketing, operations, productivity, and more",
-      "link": "https://aitoolsadvices.blogspot.com/p/what-is-aiprm.html"
-    },
-    {
-      "id": 2,
-      "name_category": "Guide",
-      "title": "AIPRM for ChatGPT",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "his browser extension is free (though there are also premium plans) and has over 1,500,000 users",
-      "link": "https://aitoolsadvices.blogspot.com/p/aiprm-for-chatgpt.html"
+			"appId_appKey_publisherId_gameId": "-",
+			"banner": "-",
+			"mrec": "-",
+			"inter": "-",
+			"native_ad": "-",
+			"open_ad": "-",
+			"splash_ad": true
+		}]
 	},
-    {
-      "id": 3,
-      "name_category": "Guide",
-      "title": "AIPRM PROMPT",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "Upon clicking on AIRPM for ChatGPT, a prompt interface will surface. The user can pick any of the public prompts or create their own",
-      "link": "https://aitoolsadvices.blogspot.com/p/aiprm-prompt.html"
-    },
-	{
-      "id": 4,
-      "name_category": "Guide",
-      "title": "How to install AIPRM",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "AIPRM for ChatGPT is easy to install and use",
-      "link": "https://aitoolsadvices.blogspot.com/p/how-to-install-aiprm.html"
-    },
-	{
-      "id": 5,
-      "name_category": "Guide",
-      "title": "How does AIPRM work in ChatGPT?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "AIPRM can be downloaded and installed from the Chrome Web Store",
-      "link": "https://aitoolsadvices.blogspot.com/p/how-does-aiprm-work-in-chatgpt.html"
-    },
-	{
-      "id": 6,
-      "name_category": "Guide",
-      "title": "Why would someone need an AIPRM Extension?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "The AIPRM extension for ChatGPT offers multiple advantages to its users, including",
-      "link": "https://aitoolsadvices.blogspot.com/p/why-would-someone-need-aiprm-extension.html"
-    },
-	{
-      "id": 7,
-      "name_category": "Guide",
-      "title": "The Benefits of Using AIPRM",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "The integration of AIPRM with ChatGPT brings a host of benefits, especially for those involved in Blogging, marketing, and content creation",
-      "link": "https://aitoolsadvices.blogspot.com/p/the-benefits-of-using-aiprm.html"
-    },
-	{
-      "id": 8,
-      "name_category": "Guide",
-      "title": "Practical Examples of Using AIPRM",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "To better understand the power of AIPRM, let's look at some practical examples. Suppose you're working on a blog post about "aiprm chatgpt guide",
-      "link": "https://aitoolsadvices.blogspot.com/p/practical-examples-of-using-aiprm-with.html"
-    },
-	{
-      "id": 9,
-      "name_category": "Guide",
-      "title": "Tips and Tricks for Using AIPRM",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "To get the most out of AIPRM and ChatGPT, here are a few tips and tricks",
-      "link": "https://aitoolsadvices.blogspot.com/p/tips-and-tricks-for-using-aiprm-with.html"
-    },
-	{
-      "id": 10,
-      "name_category": "Guide",
-      "title": "FAQs on AIPRM",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "How does AIPRM work?",
-      "link": "https://aitoolsadvices.blogspot.com/p/faqs-on-aiprm.html"
-    },
-	{
-      "id": 11,
-      "name_category": "Guide",
-      "title": "Conclusion",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
-      "description": "AIPRM has the potential to revolutionize the way businesses approach marketing and customer engagement",
-      "link": "https://aitoolsadvices.blogspot.com/p/conclusion_40.html"
-    }
-  ]
+
+	"app_settings": {
+		"navigation_mode": "tab_layout_top",
+
+		"recent_fragment_list_view_mode": "small",
+		"favorite_fragment_list_view_mode": "grid",
+		"category_fragment_list_view_mode": "big",
+		"category_activity_list_view_mode": "big",
+		"hide_short_desc_category_activity_list": false,
+		"item_interval_native_ad_list": 4,
+
+		"enable_banner_ads": true,
+		"enable_category": false,
+		"enable_more_app": false
+	},
+
+	"More": [{
+			"id": 1,
+			"title": "IQ Test vs The Moron Test",
+			"image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+		},
+		{
+			"id": 2,
+			"title": "Skins Editor for Minecraft PE",
+			"image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+		}
+	],
+
+	"Categories": [{
+			"id": 1,
+			"name_category": "Playstore",
+			"image": "file:///android_asset/image/image1.png"
+		},
+		{
+			"id": 2,
+			"name_category": "Tutorial",
+			"image": "file:///android_asset/image/image2.webp"
+		},
+		{
+			"id": 3,
+			"name_category": "Reskin",
+			"image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+		}
+	],
+
+	"Data": [{
+			"id": 1,
+			"name_category": "Guide",
+			"title": "What is AIPRM?",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "The AIPRM for ChatGPT add-on allows marketers to access many curated prompts they can tweak at will for SEO, SaaS, marketing, operations, productivity, and more",
+			"link": "https://aitoolsadvices.blogspot.com/p/what-is-aiprm.html"
+		},
+		{
+			"id": 2,
+			"name_category": "Guide",
+			"title": "AIPRM for ChatGPT",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "his browser extension is free (though there are also premium plans) and has over 1,500,000 users",
+			"link": "https://aitoolsadvices.blogspot.com/p/aiprm-for-chatgpt.html"
+		},
+		{
+			"id": 3,
+			"name_category": "Guide",
+			"title": "AIPRM PROMPT",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "Upon clicking on AIRPM for ChatGPT, a prompt interface will surface. The user can pick any of the public prompts or create their own",
+			"link": "https://aitoolsadvices.blogspot.com/p/aiprm-prompt.html"
+		},
+		{
+			"id": 4,
+			"name_category": "Guide",
+			"title": "How to install AIPRM",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "AIPRM for ChatGPT is easy to install and use",
+			"link": "https://aitoolsadvices.blogspot.com/p/how-to-install-aiprm.html"
+		},
+		{
+			"id": 5,
+			"name_category": "Guide",
+			"title": "How does AIPRM work in ChatGPT?",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "AIPRM can be downloaded and installed from the Chrome Web Store",
+			"link": "https://aitoolsadvices.blogspot.com/p/how-does-aiprm-work-in-chatgpt.html"
+		},
+		{
+			"id": 6,
+			"name_category": "Guide",
+			"title": "Why would someone need an AIPRM Extension?",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "The AIPRM extension for ChatGPT offers multiple advantages to its users, including",
+			"link": "https://aitoolsadvices.blogspot.com/p/why-would-someone-need-aiprm-extension.html"
+		},
+		{
+			"id": 7,
+			"name_category": "Guide",
+			"title": "The Benefits of Using AIPRM",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "The integration of AIPRM with ChatGPT brings a host of benefits, especially for those involved in Blogging, marketing, and content creation",
+			"link": "https://aitoolsadvices.blogspot.com/p/the-benefits-of-using-aiprm.html"
+		},
+		{
+			"id": 8,
+			"name_category": "Guide",
+			"title": "Practical Examples of Using AIPRM",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "To better understand the power of AIPRM, let's look at some practical examples. Suppose you're working on a blog post about aiprm chatgpt guide",
+			"link": "https://aitoolsadvices.blogspot.com/p/practical-examples-of-using-aiprm-with.html"
+		},
+		{
+			"id": 9,
+			"name_category": "Guide",
+			"title": "Tips and Tricks for Using AIPRM",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "To get the most out of AIPRM and ChatGPT, here are a few tips and tricks",
+			"link": "https://aitoolsadvices.blogspot.com/p/tips-and-tricks-for-using-aiprm-with.html"
+		},
+		{
+			"id": 10,
+			"name_category": "Guide",
+			"title": "FAQs on AIPRM",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "How does AIPRM work?",
+			"link": "https://aitoolsadvices.blogspot.com/p/faqs-on-aiprm.html"
+		},
+		{
+			"id": 11,
+			"name_category": "Guide",
+			"title": "Conclusion",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIbi9wKQVgk5gS8Q6ctlgGKznNkxGs3GYd68fGiBhL56zukPd1vOF9dbbpUL4GVedYa_qSzgGxO8qTSOnn3wnmc7qhybFWF4RkOYv7d7agh3dzecIsL4ruEvJGX4JWielNMWIp7UQHFT58PcBtU_m-8ohm7xw4DVwbKNl7xNHWkGa1B1B3tipHX2UIw/w400-h214/1_FCR6Gh9n9J70EIPA_jiviA.png",
+			"description": "AIPRM has the potential to revolutionize the way businesses approach marketing and customer engagement",
+			"link": "https://aitoolsadvices.blogspot.com/p/conclusion_40.html"
+		}
+	]
 }
