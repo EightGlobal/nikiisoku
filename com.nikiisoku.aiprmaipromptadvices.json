@@ -1,0 +1,200 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
+    },
+
+    "ad_network": [
+      {
+        "name": "iklanoff",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_top",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "fitur",
+      "image": "aa"
+    },
+    {
+      "id": 2,
+      "name_category": "fitur",
+      "image": "aa"
+    },
+    {
+      "id": 3,
+      "name_category": "faq",
+      "image": "aa"
+    },
+	{
+      "id": 4,
+      "name_category": "faq",
+      "image": "aa"
+    },
+	{
+      "id": 5,
+      "name_category": "faq",
+      "image": "aa"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What Is Undetectable.Ai?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable.ai is developed by a pioneering company specializing in natural language processing and artificial intelligence",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-is-undetectableai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "How Does Undetectable Ai Work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable.Ai employs several techniques to significantly enhance the quality of your AI-generated content",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-does-undetectable-ai-work.html"
+	},
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Who is Undetectable Ai For?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "For anyone passionate about using AI tools to generate content that is nearly indistinguishable from content written by a real human author",
+      "link": "https://aitoolsadvices.blogspot.com/p/who-is-undetectable-ai-for.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Undetectable Ai Key Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "These are the main features of Undetectable Ai.",
+      "link": "cat->Features"
+    },
+	{
+      "id": 5,
+      "name_category": "Features",
+      "title": "CHECK FOR AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable AI incorporates several APIs for content detection",
+      "link": "https://aitoolsadvices.blogspot.com/p/check-for-ai.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Features",
+      "title": "HUMANIZE",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable AI offers three indicators",
+      "link": "https://aitoolsadvices.blogspot.com/p/humanize.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Tips and Tricks for Undetectable Ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Pay attention to the generation of nonsense sentences",
+      "link": "https://aitoolsadvices.blogspot.com/p/tips-and-tricks-for-undetectable-ai.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Pros and Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable Ai Pros and Cons",
+      "link": "https://aitoolsadvices.blogspot.com/p/undetectable-ai-pros-and-cons.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Undetectable Ai Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable Ai offers subscription plans based on word count",
+      "link": "https://aitoolsadvices.blogspot.com/p/undetectable-ai-pricing.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable Ai Review (FAQs)",
+      "link": "cat->FAQ"
+    },
+	{
+      "id": 11,
+      "name_category": "FAQ",
+      "title": "Can You Make Ai Writing Undetectable?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "For anyone looking to quickly generate high-quality content that remains undetectable by AI detectors",
+      "link": "https://aitoolsadvices.blogspot.com/p/can-you-make-ai-writing-undetectable.html"
+    },
+	{
+      "id": 12,
+      "name_category": "FAQ",
+      "title": "Does Undetectable Ai Actually Work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "You can review my test results. Undetectable Ai accomplishes the goal of bypassing AI detectors by rewriting your content and removing any ‘watermark‘",
+      "link": "https://aitoolsadvices.blogspot.com/p/does-undetectable-ai-actually-work.html"
+    },
+	{
+      "id": 13,
+      "name_category": "FAQ",
+      "title": "Does Undetectable Ai Bypass Turnitin?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Unfortunately, I don't have access to Turnitin",
+      "link": "https://aitoolsadvices.blogspot.com/p/does-undetectable-ai-bypass-turnitin.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJ6Cd_FMi-KB9_Em1f4aRiEu8Q9laPyL1jviQ7Rkfp3tzhGQofyCfOYfvm2rcBWlz_daMZja_LujNol0fLaEdYk7N_E2WaEMMIO2DIwCxUJPa7n3Ixb-Bk1DC--RNwd_27CmbKgoCW4OwgTJQpDR58wuLeGTG1Vzu0KnDiVYOlZSnHeNXXw3DWZEj1w/s320/UNDETECTABLE-AI-CONTENT.png",
+      "description": "Undetectable Ai does prove useful in bypassing AI detectors for AI-generated text",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion.html"
+    }
+  ]
+}
