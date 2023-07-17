@@ -1,0 +1,166 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off_fan",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_top",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Venus AI ?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "VenusAI is an interactive platform where users can engage with a diverse range of AI-generated characters",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-is-venus-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "The Closure of Official VenusAI Chat Website",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "These sites are clones of VenusAI Chat as the VenusAI Dev made the site code publicly available",
+      "link": "https://aitoolsadvices.blogspot.com/p/the-closure-of-official-venusai-chat.html"
+	},
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Understanding the Different Aspects of Venus AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "The term “Venus AI” encompasses various meanings based on the context",
+      "link": "https://aitoolsadvices.blogspot.com/p/understanding-different-aspects-of.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Features of Venus AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Chatting with Pre-created Characters",
+      "link": "https://aitoolsadvices.blogspot.com/p/features-of-venus-ai.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "How to Register and Login Venus AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Open the Venus AI website and click on register",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-to-register-and-login-venus-ai.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "How to Use Venus AI？",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "If you want to use Venus AI as your personal chatbot, the setup process is very simple",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-to-use-venus-ai.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "How to Use Venus AI for Free？",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Venus AI is a paid service, but there are some tricks to use it for free",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-to-use-venus-ai-for-free.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Is Venus AI Safe to Use?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Venus AI is generally safe. It has many features to protect users",
+      "link": "https://aitoolsadvices.blogspot.com/p/is-venus-ai-safe-to-use.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Venus AI alternatives",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Janitor AI has the same style and functionality as Venus AI",
+      "link": "https://aitoolsadvices.blogspot.com/p/venus-ai-alternatives.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Limitations of Venus AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "Venus AI is an AI Chatbot created based on the LLM large model",
+      "link": "https://aitoolsadvices.blogspot.com/p/limitations-of-venus-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVSyxmk_JHLtM7KMkIV_mlDgzTQvnrPuBwG5rm_MWKfqkheLcgktp_7ddtsT3aVoKv--rvZHa18GdN0o9RkYhcJpvNZYbkOCalXoLs9ggG2HFJhugwUdyj3gz1nnPvEf3iyNojkHSvqJ2xVzyfn3MSEbc16G4SEbR9qDVGX7pG5Hy3iFiYasGOZt0cw/w320-h320/icon.png",
+      "description": "In conclusion, Venus Chub AI is an AI-powered chatbot with remarkable features",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion_17.html"
+    }
+  ]
+}
