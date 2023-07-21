@@ -12,7 +12,7 @@
       {
         "name": "off_fan",
         "value": 1,
-		"min_time": 120,
+	"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
