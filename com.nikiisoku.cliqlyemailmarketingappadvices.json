@@ -1,0 +1,166 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off_fan",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_top",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Overview of Cliqly",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Reaching your intended market is as simple as signing up for their easy-to-use web-based app",
+      "link": "https://aitoolsadvices.blogspot.com/p/overview-of-cliqly.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Cliqly Features",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Cliqly is designed to make it easier for you to reach out to potential customers and maximize the efficiency of your marketing emails",
+      "link": "https://aitoolsadvices.blogspot.com/p/cliqly-features.html"
+	},
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "What Are Customers Saying?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "In determining the credibility of a product like Cliqly, listening to the opinions of customers who have had firsthand experiences will provide valuable insight",
+      "link": "https://aitoolsadvices.blogspot.com/p/is-cliqly-legit-what-are-customers.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Is Cliqly Legit or a Scam?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Based on the data you gave about the positive reviews of YouTubers and Trust Pilot, it appears that Cliqly is considered to be legitimate by a lot of users",
+      "link": "https://aitoolsadvices.blogspot.com/p/is-cliqly-legit-or-scam.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Point To Consider About Cliqly",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Lack of transparent pricing information",
+      "link": "https://aitoolsadvices.blogspot.com/p/point-to-consider-about-cliqly.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Pros and Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "This is Cliqly Pros and Cons",
+      "link": "cat->ProsCons"
+    },
+	{
+      "id": 7,
+      "name_category": "ProsCons",
+      "title": "Pros",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "This is Cliqly Pros",
+	  "link": "https://aitoolsadvices.blogspot.com/p/pros.html"
+    },
+	{
+      "id": 8,
+      "name_category": "ProsCons",
+      "title": "Cons",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "This is Cliqly Cons",
+	  "link": "https://aitoolsadvices.blogspot.com/p/cons.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "In the end, Cliqly appears to get favorable reviews from YouTubers and Trustpilot and Trustpilot, which indicates its reliability as an email marketing platform form.",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion-is-cliqly-legit.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Cliqly Alternative Options",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Mailchimp is a popular marketing tool for email that is known for its easy-to-use interface and powerful features",
+      "link": "https://aitoolsadvices.blogspot.com/p/cliqly-alternative-options.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpNyrhoOTUWkMOUeEJeqxNCEYylMwuuPxjbs0Y-Q5s1_UPAFtxLHHPYzB6hUH_5Br96dxOX56UhL_eI39QNTDs9YvF80X4pB-yeBtDP_xk56pHLeIB5miIAYCsfYjw06zb7g69cak5krOQAevg6pX3jWAvuwq6H1m1za7NCOwxeiItTSmBRoo6uHKeQ/w400-h400/icon.png",
+      "description": "Cliqly Frequently Asked Questions",
+      "link": "https://aitoolsadvices.blogspot.com/p/cliqly-frequently-asked-questions.html"
+    }
+  ]
+}
