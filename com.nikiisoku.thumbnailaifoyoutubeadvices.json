@@ -4,8 +4,8 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "make_app_under_maintenance": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
     },
 
     "ad_network": [
@@ -74,77 +74,101 @@
   ],
 
   "Data": [
-    {
+   {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safetyssss",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "Info",
+      "title": "The Rise of Thumbnail AI: Revolutionizing Content Visuals",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "In the era of information overload, captivating visuals play a crucial role in catching the audience's attention",
+      "link": "https://aitoolsadvices.blogspot.com/p/the-rise-of-thumbnail-ai.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      "name_category": "Info",
+      "title": "Visual Storytelling Made Easy: Exploring Thumbnail AI Technology",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "Storytelling has long been an essential aspect of human communication",
+      "link": "https://aitoolsadvices.blogspot.com/p/visual-storytelling-made-easy-exploring.html"
     },
-    {
+	{
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "cat->Reskin"
+      "name_category": "Info",
+      "title": "AI-Powered Thumbnails: The Key to Boosting Online Engagement",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "In today's hyper-competitive online environment, the battle for users' attention is more intense than ever",
+      "link": "https://aitoolsadvices.blogspot.com/p/ai-powered-thumbnails-key-to-boosting.html"
     },
-    {
+	{
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "Next-Gen Thumbnails: How AI is Changing the Game",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "As technology advances, so does the evolution of Thumbnail AI",
+      "link": "https://aitoolsadvices.blogspot.com/p/next-gen-thumbnails-how-ai-is-changing.html"
     },
-    {
+	{
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "Creating Eye-Catching Thumbnails with Artificial Intelligence",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "The creative process behind designing visually striking thumbnails can be time-consuming and resource-intensive",
+      "link": "https://aitoolsadvices.blogspot.com/p/creating-eye-catching-thumbnails-with.html"
     },
-    {
+	{
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "From Pixels to Perfection: The Art of Thumbnail AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "The creation of compelling thumbnails involves the harmonious fusion of art and technology",
+      "link": "https://aitoolsadvices.blogspot.com/p/from-pixels-to-perfection-art-of.html"
     },
-    {
+	{
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "Thumbnail Optimization: Harnessing the Power of AI Algorithms",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "Thumbnail optimization plays a pivotal role in maximizing the visibility and click-through rates of digital content",
+      "link": "https://aitoolsadvices.blogspot.com/p/thumbnail-optimization-harnessing-power.html"
     },
-    {
+	{
       "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "AI-Generated Thumbnails: A New Frontier in Content Marketing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "Content marketing has always relied on compelling visuals to convey messages effectively.",
+      "link": "https://aitoolsadvices.blogspot.com/p/ai-generated-thumbnails-new-frontier-in.html"
     },
-    {
+	{
       "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "Info",
+      "title": "Thumbnail Personalization: Tailoring Visuals with AI Insights",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "The era of generic content is fading, and personalization is the new standard in digital experiences",
+      "link": "https://aitoolsadvices.blogspot.com/p/thumbnail-personalization-tailoring.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Info",
+      "title": "Enhancing Click-Through Rates with AI-Driven Thumbnails",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "Click-through rates (CTR) are crucial metrics for any online platform",
+      "link": "https://aitoolsadvices.blogspot.com/p/enhancing-click-through-rates-with-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Info",
+      "title": "Thumbnail Personalization: Tailoring Visuals with AI Insights",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "The era of generic content is fading, and personalization is the new standard in digital experiences",
+      "link": "https://aitoolsadvices.blogspot.com/p/thumbnail-personalization-tailoring_28.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Info",
+      "title": "The Future of Content Previews: AI-Generated Thumbnails Unveiled",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYNyxikEeNFeYJ1cuqt_1CcSppWj5qQBPqV4y41d5-ryUfLT8qLPY4OHD2I5Mtlrx51D7Lu7_6bpXSlZjkrvmhR6a72ndMwchRT6cdHgg-9LzZHrboXE9n4gx8quIkTR-yyDXyvbtIs_11BslRZ0wzcLiLhxSd1XPKuDOgbXJ8P-YkBUa_l9fKY7Lpug/w400-h400/icon.png",
+      "description": "The future of content previews is closely intertwined with AI-generated thumbnails, promising a more dynamic and immersive user experience",
+      "link": "https://aitoolsadvices.blogspot.com/p/the-future-of-content-previews-ai.html"
     }
   ]
 }
