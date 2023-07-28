@@ -1,0 +1,150 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "off_fan",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_top",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "big",
+    "category_activity_list_view_mode" : "big",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Intruduction",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "Charstar AI is a free online platform that allows you to create, discover, and chat with virtual characters",
+      "link": "https://aitoolsadvices.blogspot.com/p/introduction_28.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "What is Charstar AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "CharStar AI is an all-inclusive platform that changes the way characters are made and interacted with using chatbot models that are openly available",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-is-charstar-ai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "How to use Charstar AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "Go to the CharStar AI website and sign up for an account",
+      "link": "https://aitoolsadvices.blogspot.com/p/how-to-use-charstar-ai.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "What Can You Do in Charstar AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "Charstar AI allows users to create their own AI characters and engage in conversations with them",
+      "link": "https://aitoolsadvices.blogspot.com/p/what-can-you-do-in-charstar-ai.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Pricing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "Charstar AI offers two pricing plans",
+      "link": "https://aitoolsadvices.blogspot.com/p/pricing.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Features of CharStar AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "You can create your own characters with CharStar AI",
+      "link": "https://aitoolsadvices.blogspot.com/p/features-of-charstar-ai.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Limitations Of CharStar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "CharStar AI is a powerful tool, but it has some limitations",
+      "link": "https://aitoolsadvices.blogspot.com/p/limitations-of-charstar.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "CharStar AI is a free online platform that allows you to create, discover, and chat with virtual characters powered by the latest advancements in open-source AI",
+      "link": "https://aitoolsadvices.blogspot.com/p/conclusion_28.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmKcVbEaJ25NrAHKQKtfuXIA3MplZrdpTWmTG94SCjvqpz2EO16sfG6MCMe0QOc4MUuyDj3Z_0eM6l6p0yL_gmhjUSIxZdCfTjHskNJ8YZ4SLrHKjcbxm8Q7E40sJLc2XbpfPWGue3oGGA0Vl2J3YWGZjQrmmhsqduYKjZE_9yqK3yWNjpbm2byisXg/w400-h400/icon.png",
+      "description": "Here are some frequently asked questions",
+      "link": "https://aitoolsadvices.blogspot.com/p/faq_28.html"
+    }
+  ]
+}
