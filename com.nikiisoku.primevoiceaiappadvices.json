@@ -12,12 +12,11 @@
       {
         "name": "off_fan",
         "value": 1,
-		"min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "off",
-        "inter": "-",
+        "appId_appKey_publisherId_gameId": "653944126452708",
+        "banner": "653944126452708_654001163113671",
+        "mrec": "653944126452708_654001236446997",
+        "inter": "653944126452708_654001196447001",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
