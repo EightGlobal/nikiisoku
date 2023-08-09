@@ -10,13 +10,13 @@
 
     "ad_network": [
       {
-        "name": "fan",
+        "name": "-",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "648290460595529",
-        "banner": "648290460595529_648290883928820",
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
         "mrec": "off",
-        "inter": "648290460595529_648290937262148",
+        "inter": "-",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
