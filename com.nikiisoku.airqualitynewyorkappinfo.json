@@ -10,7 +10,7 @@
 
     "ad_network": [
       {
-        "name": "off_fan",
+        "name": "-",
         "value": 1,
 		"min_time": 120,
 
